@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Raleway:wght@300;400;500&display=swap');
 
+html{
+    justify-content: center;
+}
+
 body{
     border: 5px solid black;
     width: 1160px;
@@ -188,4 +192,5 @@ footer p{
     font-size: 15px;
     font-family: 'Leto', sans-serif;  
     color: aliceblue;
+
 }
